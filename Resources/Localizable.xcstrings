@@ -551,7 +551,7 @@
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "A Ghostty-based terminal with vertical tabs\\nand a notification panel for macOS."
+            "value": "A Ghostty-based terminal with vertical tabs\nand a notification panel for macOS."
           }
         },
         "ja": {
@@ -563,13 +563,13 @@
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "基于 Ghostty 的 macOS 终端，\\n支持垂直标签页和通知面板。"
+            "value": "基于 Ghostty 的 macOS 终端，\n支持垂直标签页和通知面板。"
           }
         },
         "zh-Hant": {
           "stringUnit": {
             "state": "translated",
-            "value": "基於 Ghostty 的 macOS 終端機，\\n具備垂直標籤頁與通知面板。"
+            "value": "基於 Ghostty 的 macOS 終端機，\n具備垂直標籤頁與通知面板。"
           }
         },
         "ko": {
